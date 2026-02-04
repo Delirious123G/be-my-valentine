@@ -45,7 +45,7 @@ export default function Page() {
         <>
           <img
             className="h-[200px]"
-            src="https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif"
+            src="https://i.pinimg.com/originals/15/6a/7e/156a7eeca789b83dd40117d4d06ac021.gif"
           />
           <h1 className="my-4 text-4xl">Will you be my Valentine, bib?</h1>
           <div className="flex items-center">
